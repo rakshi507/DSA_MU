@@ -1,0 +1,36 @@
+Q1.what is an algorithm? List the characteristics of a good  algorithm.
+ans- An algorithm is a step-by-step procedure to solve a problem.
+characteristics:- clear and efficient.
+
+Q2. EXplain the difference between static and dynamic data structure.
+ans- static means size is fixed.
+Dynamic means size can change during execution.
+
+Q3. what is an abstract data type(ADT)?Give one example.
+ans- ADT defines data and its operations without specifying implementation.
+example- stack.
+
+Q4. what is the difference between a stack's push and pop operations.
+ans- push means to add an  element to the top.
+pop means removes the top element.
+
+Q5. what is a queue's enqueue operation? what happen during dequeue.
+ans- enqueue adds an element at the rear.
+dequeue removes the  an element from the front.
+
+Q6. what is the best case and worst case time complexity of linear search?
+ans- best case 0(1), worst case 0(n).
+
+Q7. why must data generally be sorted before applying binary search?
+ans- Binary search works by repeatedly dividing the search range into halves. sorted data is required to determine whether to search the left or right half.
+
+Q8. what is a singly linked list? how is it different from an array?
+ans- A singly linked list is a collection of nodes where each node  contains data and a pointer to the next node. unlike an array,linked list elements are not stored in contiguous meomery and their size can grow dynamically.
+
+Q9. what is a binary tree? what is the maximum number of children of a node?
+ans- a binary tree is a tree in which each node can have at most two children left and right.
+
+Q10. Differentiate between BFS and DFS at a basic conceptual level.
+ans- BFS(breadth- fisrt search) visits nodes level by level, while DFS( depth - fir st search) explores one  branch as deeply  as posible before backtracking
+
+
